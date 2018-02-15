@@ -49,6 +49,7 @@ var settings = module.exports = {
 
     httpNodeCors: {
         origin: "*",
+        credentials: true,
         methods: "GET,PUT,POST,DELETE"
     },
     
