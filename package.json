@@ -11,6 +11,7 @@
         "node-red-contrib-admin": "0.x",
         "node-red-contrib-sendgrid" : "0.x",
         "axios": "^0.17.1",
-        "node-red-dashboard": "2.8.1"
+        "node-red-dashboard": "2.8.1",
+        "node-red-node-cf-cloudant" : "~0.x"
     }
 }
