@@ -15,8 +15,5 @@
         "node-red-node-cf-cloudant" : "~0.x",
         "node-red-contrib-cpu" : "~0.x",
         "full-icu" : "1.x"
-    },
-    "scripts": {
-        "start" : "node --icu-data-dir=node_modules/full-icu --max-old-space=192 index.js --settings ./settings.js"
     }
 }
