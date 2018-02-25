@@ -1,1 +1,1 @@
-web: node --icu-data-dir=node_modeules/full-icu --max-old-space=192 index.js --settings ./settings.js
+web: node --icu-data-dir=node_modeles/full-icu --max-old-space=192 index.js --settings ./settings.js
