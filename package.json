@@ -17,6 +17,7 @@
         "full-icu" : "1.x",
         "node-red-contrib-bcrypt" : "~0.x",
         "node-red-contrib-viseo-google-spreadsheet" : "~0.x",
-        "node-red-contrib-google-firebase" : "~0.x"
+        "node-red-contrib-firebase" : "1.x",
+        "npm i node-red-contrib-viseo-mongodb" : "~0.x"
     }
 }
