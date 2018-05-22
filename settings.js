@@ -43,7 +43,11 @@ var settings = module.exports = {
     // Serve up the welcome page
     httpStatic: path.join(__dirname,"public"),
 
-    functionGlobalContext: { request:require('request') },
+    functionGlobalContext: { 
+        request:require('request'), 
+        axios:require('axios'), 
+        stripe:require('stripe') 
+    },
 
     storageModule: require("./mongostorage"),
 

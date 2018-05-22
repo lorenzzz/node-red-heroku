@@ -10,7 +10,7 @@
         "node-red": "~0.x",
         "node-red-contrib-admin": "0.x",
         "node-red-contrib-sendgrid" : "0.x",
-        "axios": "^0.17.1",
+        "axios": "latest",
         "node-red-dashboard": "2.8.1",
         "node-red-node-cf-cloudant" : "~0.x",
         "node-red-contrib-cpu" : "~0.x",
@@ -21,6 +21,7 @@
         "node-red-contrib-viseo-mongodb" : "~0.x",
         "node-red-contrib-viseo-nosql-manager" : "~0.x",
         "node-red-contrib-stripe":"~0.x",
-        "request":"latest"
+        "request":"latest",
+        "stripe":"latest"
     }
 }
