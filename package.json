@@ -21,6 +21,6 @@
         "node-red-contrib-viseo-mongodb" : "~0.x",
         "node-red-contrib-viseo-nosql-manager" : "~0.x",
         "node-red-contrib-stripe":"~0.x",
-        "require":"latest"
+        "request":"latest"
     }
 }
