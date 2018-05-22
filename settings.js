@@ -46,7 +46,7 @@ var settings = module.exports = {
     functionGlobalContext: { 
         request:require('request'), 
         axios:require('axios'), 
-        stripe:require('stripe') 
+        stripe:require('stripe')('sk_test_GxarQgwtBoIdOSFYHsKFkrXr')
     },
 
     storageModule: require("./mongostorage"),
